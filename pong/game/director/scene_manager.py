@@ -118,11 +118,11 @@ class SceneManager:
         banner.set_font_size(30)
         banner.set_text("""
 
-Left padde controls:
+Left paddle or Player 1 controls:
 W - move up
 S - move down
 
-Right paddle controls:
+Right paddle or Player 2 controls:
 Arrow key up - move up
 Arrow key down - move down""")
         banner.set_position(Point(CENTER_X - 200, 25))
